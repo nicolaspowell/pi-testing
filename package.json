@@ -1,0 +1,28 @@
+{
+  "name": "pi-testing",
+  "version": "1.0.0",
+  "description": "A repo to try out the pi agent and get comfortable with it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolaspowell/pi-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/nicolaspowell/pi-testing/issues"
+  },
+  "homepage": "https://github.com/nicolaspowell/pi-testing#readme",
+  "devDependencies": {
+    "@earendil-works/pi-coding-agent": "^1.3.0",
+    "typescript": "^7.0.2"
+  },
+  "dependencies": {
+    "@sinclair/typebox": "^0.34.52"
+  }
+}
